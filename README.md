@@ -1,4 +1,5 @@
-## web-scraping-using-python
+# web-scraping-using-python
+## BeautifulSoup , tkinter 
 
 Hello, I did this web scraping project in the second semester of the university for the programming course.
 The tkinter library is used for the graphical interface, and what this code does is process the data in the recruitment section of the Quera website.
