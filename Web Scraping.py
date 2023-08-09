@@ -1,3 +1,5 @@
+#این کد وب اسکرپینگ را برای سایت کوئرا انجام میدهد
+
 from tkinter import *
 def BackEnd():
     from bs4 import BeautifulSoup
